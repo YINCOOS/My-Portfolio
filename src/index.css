@@ -125,3 +125,13 @@ img{
     }
 }
 
+/** ===========================MEDIA QUERY =============(SMALL DEVICES: MOBILE PHONES)===============*/
+@media screen and (max-width: 600px){
+    .container{
+        width: var(--container-width-sm);
+    }
+
+    ssection >h2 {
+        margin-bottom: 2rem;
+    }
+}
