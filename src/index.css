@@ -114,4 +114,14 @@ img{
     object-fit: cover;
 }
 
-/** MEDIA QUERY */
+/** ===========================MEDIA QUERY =============(MEDIUM DEVICES: TABLET)===============*/
+@media screen and (max-width: 1024px){
+    .container{
+        width: var(--container-width-md);
+    }
+
+    ssection {
+        margin-top: 6rem;
+    }
+}
+
