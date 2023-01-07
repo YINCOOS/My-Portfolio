@@ -2,9 +2,7 @@ import React from 'react'
 import './Testimonial.css'
 const Testimonial = () => {
   return (
-    <div>
-      Testimonial
-    </div>
+   <section id="Testimonial">Testimonial from clients</section>
   )
 }
 
