@@ -120,7 +120,7 @@ img{
         width: var(--container-width-md);
     }
 
-    ssection {
+    section {
         margin-top: 6rem;
     }
 }
@@ -131,7 +131,7 @@ img{
         width: var(--container-width-sm);
     }
 
-    ssection >h2 {
+    section >h2 {
         margin-bottom: 2rem;
     }
 }

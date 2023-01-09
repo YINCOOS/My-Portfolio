@@ -6,8 +6,6 @@ import {FaUserAlt} from 'react-icons/fa'
 import {BiBookBookmark} from 'react-icons/bi'
 import {MdOutlineHomeRepairService} from 'react-icons/md'
 import {BiMessageDetail} from 'react-icons/bi'
-import {FcBriefcase} from 'react-icons/fc'
-import {MdOutlineRateReview} from 'react-icons/md'
 import { useState } from 'react'
 
 
@@ -19,8 +17,6 @@ const Navbar = () => {
         <a href='#About' onClick={()=> setActiveNav('#About')} className={activeNav === '#About' ? 'active' : ''}><FaUserAlt /></a>
         <a href='#Experience' onClick={()=> setActiveNav('#Experience')} className={activeNav === '#Experience' ? 'active' : ''}><BiBookBookmark /></a>
         <a href='#Services' onClick={()=> setActiveNav('#Services')} className={activeNav === '#Services' ? 'active' : ''}><MdOutlineHomeRepairService /></a>
-        <a href='#Portfolio' onClick={()=> setActiveNav('#Portfolio')} className={activeNav === '#Portfolio' ? 'active' : ''}><FcBriefcase /></a>
-        <a href='#Testimonial' onClick={()=> setActiveNav('#Testimonial')} className={activeNav === '#Testimonial' ? 'active' : ''}><MdOutlineRateReview /></a>
         <a href='#Contact' onClick={()=> setActiveNav('#Contact')} className={activeNav === '#Contact' ? 'active' : ''}><BiMessageDetail /></a>
     </nav>
   )

@@ -16,7 +16,7 @@ const data = [
     {
         avatar: AVTR1,
         name: 'Ernest Achiever',
-        review: 'I recently worked with on a project and I couldn\'t be more satisfied with the outcome. His team has a great communication throughout the entire process and were very responsive to my needs and requests.'
+        review: 'I recently worked with Adeyinka on a project and I couldn\'t be more satisfied with the outcome. His team has a great communication throughout the entire process and were very responsive to my needs and requests.'
     },
     {
         avatar: AVTR1,
