@@ -4,6 +4,7 @@ import IMG1 from '../../Assets/portfolio1.webp'
 import IMG2 from '../../Assets/portfolio2.webp'
 import IMG3 from '../../Assets/portfolio3.webp'
 import IMG4 from '../../Assets/heroFoodOne.svg'
+import IMG5 from '../../Assets/food.jpeg'
 
 
 const data = [
@@ -13,6 +14,13 @@ const data = [
         title: 'Book a ride App',
         github: 'https://github.com/YINCOOS/Ride-App',
         demo: 'https://github.com/YINCOOS/Ride-App'
+    },
+    {
+        id: 2,
+        image: IMG5,
+        title: 'A React Native App',
+        github: 'https://github.com/YINCOOS/Feed-fine',
+        demo: 'https://github.com/YINCOOS/Feed-fine'
     },
     {
         id: 2,
