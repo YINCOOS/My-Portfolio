@@ -88,6 +88,47 @@ const Experience = () => {
             </article>
           </div>
         </div>
+
+        <div className="experience__frontend">
+          <h3>Mobile Development</h3>
+          <div className="experience__content">
+            <article className="experience__details">
+              <HiShieldCheck className="experience__details-icon" />
+              <div>
+                <h4>React Native</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiShieldCheck className="experience__details-icon" />
+              <div>
+                <h4>IOS</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiShieldCheck className="experience__details-icon" />
+              <div>
+                <h4>Android</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiShieldCheck className="experience__details-icon" />
+              <div>
+                <h4>Kotlin</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiShieldCheck className="experience__details-icon" />
+              <div>
+                <h4>Java</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+          </div>
+        </div>
       </div>
     </section>
   );
