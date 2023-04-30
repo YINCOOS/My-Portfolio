@@ -24,11 +24,11 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-        <a href='https://github.com/YINCOOS'><BsGithub/></a>
-        <a href='https://www.linkedin.com/in/ogunsemoyin-david-7a32051ba/'><ImLinkedin/></a>
-        <a href='https://msng.link/o/?07032248112=wa'><BsWhatsapp/></a>
-        <a href='https://twitter.com/yincoos/'><AiOutlineTwitter/></a>
-        <a href='https://msng.link/o/?YINCOOS=tg'><FaTelegramPlane/></a>
+        <a href='https://github.com/YINCOOS' target='_blank' rel="noreferrer"><BsGithub/></a>
+        <a href='https://www.linkedin.com/in/ogunsemoyin-david-7a32051ba/' target='_blank' rel="noreferrer"><ImLinkedin/></a>
+        <a href="https://wa.me/07032248112" target='_blank' rel="noreferrer"><BsWhatsapp/></a>
+        <a href='https://twitter.com/yincoos/' target='_blank' rel="noreferrer"><AiOutlineTwitter/></a>
+        <a href='https://msng.link/o/?YINCOOS=tg' target='_blank' rel="noreferrer"><FaTelegramPlane/></a>
       </div>
 
       <div className='footer__copyright'>

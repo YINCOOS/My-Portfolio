@@ -52,21 +52,6 @@ footer a {
     color: var(--color-bg);
 }
 
-/** ===========================MEDIA QUERY =============(MEDIUM DEVICES: TABLET)===============*/
-@media screen and (max-width: 1024px){
-    .about__container{
-        grid-template-columns: 1fr;
-        gap: 0;
-    }
-    .about__me{
-        width: 50%;
-        margin: 2rem auto 4rem;
-    }
-    .about__content p{
-        margin: 1rem 0 1.5rem;
-    }
-}
-
 /** ===========================MEDIA QUERY =============(SMALL DEVICES: TABLET)===============*/
 @media screen and (max-width: 600px){
     .permalinks {
