@@ -19,12 +19,12 @@ const data = [
         review: 'I recently worked with Adeyinka on a project and I couldn\'t be more satisfied with the outcome. His team has a great communication throughout the entire process and were very responsive to my needs and requests.'
     },
     {
-        avatar: AVTR1,
+        avatar: 'https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
         name: 'Engr. Samson',
         review: 'Adeyinka have a great understanding of software development and took the time to explain their processes and solutions. The final product was delivered on time and met all of my expectations.'
     },
     {
-        avatar: AVTR1,
+        avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
         name: 'Phiona felix',
         review: 'I would highly recommend this guy to anyone or organization looking for a professional and reliable solution.'
     },
