@@ -37,7 +37,7 @@ const About = () => {
                 </article>
             </div>
             <p>
-            I am a highly experienced MERN stack developer with a proven track record of developing dynamic, user-friendly web applications and websites. I have extensive experience working with the MongoDB, Express, React, and Node.js (MERN) technologies. I have a strong understanding of front-end technologies such as HTML5, CSS3, and JavaScript, as well as back-end technologies such as Node.js and Express.
+            I am a highly experienced MERN stack developer with a proven track record of developing dynamic, user-friendly web applications and mobile applications. I have extensive experience working with the MongoDB, Express, React, and Node.js (MERN) technologies, React Native for the IOS and Android. I have a strong understanding of front-end technologies such as Reactjs, HTML5, CSS3, and JavaScript, as well as back-end technologies such as Node.js and Express.
             </p>
             <a href='#Contact' className='btn btn-primary'>Contact Me</a>
         </div>
