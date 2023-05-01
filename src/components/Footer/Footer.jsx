@@ -49,7 +49,7 @@ const Footer = () => {
         >
           <ImLinkedin />
         </a>
-        <a href="wa.me/+2347032248112" target="_blank" rel="noreferrer">
+        <a href="https://wa.link/lshesd" target="_blank" rel="noreferrer">
           <BsWhatsapp />
         </a>
         <a href="https://twitter.com/yincoos/" target="_blank" rel="noreferrer">
