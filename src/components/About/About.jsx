@@ -27,7 +27,7 @@ const About = () => {
                 <article className='about__card'>
                     <AiOutlineUsergroupDelete  className='about__icon'/>
                     <h5>Clients</h5>
-                    <small>15+ Worlwide</small>
+                    <small>15+ Worldwide</small>
                 </article>
 
                 <article className='about__card'>
