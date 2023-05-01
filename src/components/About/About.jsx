@@ -27,13 +27,13 @@ const About = () => {
                 <article className='about__card'>
                     <AiOutlineUsergroupDelete  className='about__icon'/>
                     <h5>Clients</h5>
-                    <small>200+ Worlwide</small>
+                    <small>15+ Worlwide</small>
                 </article>
 
                 <article className='about__card'>
                     <ImFolderOpen className='about__icon'/>
                     <h5>Projects</h5>
-                    <small>80+ completed Projects</small>
+                    <small>30+ completed Projects</small>
                 </article>
             </div>
             <p>
